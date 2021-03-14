@@ -15,7 +15,7 @@ public class OOR {
         Car c2 = new Car("Wolkswagem", "red");
 
         Dog d1 = new Dog();
-        Dog d2 = new Dog("Poodle", 1);
+        Dog d2 = new Dog("Poodle", 7);
 
         System.out.println(p1);
         System.out.println(p2);
@@ -25,6 +25,7 @@ public class OOR {
 
         System.out.println(d1);
         System.out.println(d2);
+        d2.setBreed("Mixed");
 
     }
 

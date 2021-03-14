@@ -7,7 +7,7 @@ public class Dog {
     private int age;
     
 public Dog(){
-    this.breed = "Bull Terrier";
+    this.breed = "Pit Bull";
     this.age = 2;
 }
 
