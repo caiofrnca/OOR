@@ -27,7 +27,6 @@ public class OOR {
 
         System.out.println(d1);
         System.out.println(d2);
-        d2.setBreed("Mixed");
 
     }
 
