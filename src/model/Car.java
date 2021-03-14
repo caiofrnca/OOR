@@ -33,7 +33,9 @@ public class Car {
     
     
     public String toString(){
+        System.out.println("New car!!");
         return "This car is made by: " + this.brand + " and is: " + this.color + "\n" + "-------------------";
+
         
     }
 
